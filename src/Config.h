@@ -1,7 +1,6 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
-
 #ifdef WIN
 #define PATH_SEP "\\"
 #define PATH_SEP_CHAR '\\'
